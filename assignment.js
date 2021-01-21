@@ -1,4 +1,4 @@
-
+// https://github.com/monzul4u/assignment.js
 
 //Code-01 JS Function for kilometerTometer
 
@@ -6,7 +6,6 @@ function kilometerTometer(kilometer){
     var meter = kilometer * 1000;
     return meter;
 }
-
 
 
 // Code-02 JS function for budgetCalculator
@@ -42,7 +41,7 @@ function hotelCost(days){
 
 // Code-04 JS Function for Megafriend
 
-var friends = ['abir', 'mamun', 'ahamed', 'shahazad'];
+var friends = ['abir', 'mamun', 'ahamed', 'shahazad', 'salam', 'jamal', 'jamil'];
 
 function megaFriend(friends){
 var longest = friends[0];
@@ -54,16 +53,4 @@ for(var i = 0; i < friends.length; i++){
 }
 return longest;
 }
-
-
-
-
-
-    
-
-
-
-
-
-
 
